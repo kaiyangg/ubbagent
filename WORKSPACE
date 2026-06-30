@@ -140,8 +140,8 @@ go_repository(
 go_repository(
     name = "com_github_golang_glog",
     importpath = "github.com/golang/glog",
-    sum = "h1:jxpi2eWoU84wbX9iIEyAeeoac3FLuifZpY9tcNUD9kw=",
-    version = "v1.1.1",
+    sum = "h1:DrW6hGnjIhtvhOIiAKT6Psh/Kd/ldepEa81DKeiRJ5I=",
+    version = "v1.2.5",
 )
 
 go_repository(
@@ -182,8 +182,8 @@ go_repository(
 go_repository(
     name = "com_github_google_uuid",
     importpath = "github.com/google/uuid",
-    sum = "h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=",
-    version = "v1.3.0",
+    sum = "h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=",
+    version = "v1.6.0",
 )
 
 go_repository(
@@ -1128,8 +1128,8 @@ go_repository(
 go_repository(
     name = "in_gopkg_yaml_v2",
     importpath = "gopkg.in/yaml.v2",
-    sum = "h1:fvjTMHxHEw/mxHbtzPi3JCcKXQRAnQTBRo6YCJSVHKI=",
-    version = "v2.2.3",
+    sum = "h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=",
+    version = "v2.4.0",
 )
 
 go_repository(
@@ -1156,8 +1156,8 @@ go_repository(
 go_repository(
     name = "org_golang_google_api",
     importpath = "google.golang.org/api",
-    sum = "h1:dP6Ef1VgOGqQ8eiv4GiY8RhmeyqzovcXBYPDUYG8Syo=",
-    version = "v0.124.0",
+    sum = "h1:CQDMqUiqZZ0U/Yge3zyjAhNQ0OSYEH0PaA7l4xtEen4=",
+    version = "v0.287.0",
 )
 
 go_repository(
@@ -1191,8 +1191,8 @@ go_repository(
 go_repository(
     name = "org_golang_x_crypto",
     importpath = "golang.org/x/crypto",
-    sum = "h1:b15kiHdrGCHrP6LvwaQ3c03kgNhhiMgvlhxHQhmg2Xs=",
-    version = "v0.35.0",
+    sum = "h1:QZ4Muo8THX6CizN2vPPd5fBGHyogrdK9fG4wLPFUsto=",
+    version = "v0.53.0",
 )
 
 go_repository(
@@ -1219,15 +1219,15 @@ go_repository(
 go_repository(
     name = "org_golang_x_net",
     importpath = "golang.org/x/net",
-    sum = "h1:X2//UzNDwYmtCLn7To6G58Wr6f5ahEAQgKNzv9Y951M=",
-    version = "v0.10.0",
+    sum = "h1:Rw8j/hFzGvJUZwNBXnAtf5sVDVt+65SK2C7IxCxZt5o=",
+    version = "v0.56.0",
 )
 
 go_repository(
     name = "org_golang_x_oauth2",
     importpath = "golang.org/x/oauth2",
-    sum = "h1:6dkIjl3j3LtZ/O3sTgZTMsLKSftL/B8Zgq4huOIIUu8=",
-    version = "v0.8.0",
+    sum = "h1:peZ/1z27fi9hUOFCAZaHyrpWG5lwe0RJEEEeH0ThlIs=",
+    version = "v0.36.0",
 )
 
 go_repository(
