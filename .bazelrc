@@ -1,2 +1,5 @@
 build --cxxopt=-std=c++14
 build --host_cxxopt=-std=c++14
+common --noenable_bzlmod
+build --copt=-Wa,--gsframe=no
+build --host_copt=-Wa,--gsframe=no
